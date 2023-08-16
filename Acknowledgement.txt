@@ -1,0 +1,12 @@
+- [React-moralis](https://www.npmjs.com/package/react-moralis)
+- [React-hooks](https://react.dev/reference/react#state-hooks)
+- [useEffect](https://react.dev/reference/react/useEffect)
+- [useState](https://react.dev/reference/react/useState)
+- [web3uikit](https://github.com/web3ui/web3uikit)
+- [useWeb3Contract()](https://github.com/MoralisWeb3/react-moralis#useweb3contract)
+- [Interface-formatting](https://docs.ethers.org/v5/api/utils/abi/interface/#Interface--formatting)
+- [Notification-Modal](https://web3ui.github.io/web3uikit/?path=/docs/5-popup-notification--hook-demo)
+
+
+Continue from:
+https://youtu.be/gyMwXuJrbJQ?t=60725
